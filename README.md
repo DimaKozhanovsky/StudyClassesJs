@@ -1,2 +1,2 @@
 # StudyClassesJs
-Creatin web apps using classes in JS
+Creating web apps using classes in JS
